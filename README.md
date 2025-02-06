@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I’m a passionate programmer with a deep interest
 - **Tools**: Git, Jupyter Notebooks, vscode
 - **Databases**: MySQL
 
-## 📈 My GitHub Stats
-
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)
 
 ## 📂 My Projects
 
